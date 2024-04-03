@@ -1,0 +1,18 @@
+{
+  "name": "app-to-resize-image-dimension",
+  "version": "1.0.0",
+  "ProductName": "Image Resizer",
+  "description": "Image resizer app built in electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Ubaid Ullah",
+  "license": "ISC",
+  
+  "dependencies": {
+    "electron": "^29.1.6",
+    "resize-img": "^2.0.0",
+    "toastify-js": "^1.12.0"
+  }
+}
